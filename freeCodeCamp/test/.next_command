@@ -314,3 +314,5 @@ ls --color=auto
 move website website-boilerplate
 move /website /website-boilerplate
 mv website website-boilerplate
+clear
+ls --color=auto
