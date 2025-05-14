@@ -244,3 +244,10 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+find -images
+find images
+find client/assets/images
+clear
+find -na
+find -name
+find -name images
