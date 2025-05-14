@@ -316,3 +316,5 @@ move /website /website-boilerplate
 mv website website-boilerplate
 clear
 ls --color=auto
+cp -help
+cp --help
