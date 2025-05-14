@@ -288,3 +288,4 @@ find
 help rm
 rm help
 rm --help
+rm fonts -r
