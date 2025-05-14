@@ -203,3 +203,6 @@ __vsc_prompt_cmd_original
 clear
 find
 find client
+find help
+help find
+find --help
