@@ -222,3 +222,19 @@ mkdir images
 cd images
 background.jpg
 touch background.jpg
+cd ../..
+cd ..
+cd client/src
+cd
+clear
+list
+cd .
+cd ..
+ls --color=auto
+cd gitpod
+ls --color=auto
+cd website
+cd client
+cd assets
+cd images
+cd ../../..
