@@ -126,3 +126,5 @@ cd ..
 cd website
 more ..
 cd .
+background.jpg
+touch background.jpg
