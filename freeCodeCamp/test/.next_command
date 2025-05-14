@@ -289,3 +289,4 @@ help rm
 rm help
 rm --help
 rm fonts -r
+ls --color=auto
