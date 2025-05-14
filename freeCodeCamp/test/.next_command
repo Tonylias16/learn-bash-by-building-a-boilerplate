@@ -103,3 +103,5 @@ cd ..
 cd ..
 cd ../--
 cd ../..
+clear
+ls --color=auto
