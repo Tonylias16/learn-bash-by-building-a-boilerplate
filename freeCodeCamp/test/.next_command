@@ -169,3 +169,5 @@ mv menlo.ttf menlo.otf
 clear
 list
 ls --color=auto
+mkdir
+mkdir fonts
