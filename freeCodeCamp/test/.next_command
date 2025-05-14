@@ -176,3 +176,5 @@ mv roboto.woff fonts
 find fonts
 clear
 find
+./
+mv lato.ttf fonts
