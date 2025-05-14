@@ -275,3 +275,4 @@ touch client/assets/fonts roboto-bold.woff
 __vsc_prompt_cmd_original
 clear
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
