@@ -87,3 +87,6 @@ ls --color=auto -l
 cd has
 clear
 ls --color=auto
+print README.md
+README.md
+more README.md
