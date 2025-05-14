@@ -202,3 +202,4 @@ mv styles.css client/src
 __vsc_prompt_cmd_original
 clear
 find
+find client
