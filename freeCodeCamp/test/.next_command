@@ -281,3 +281,5 @@ rm roboto-bold.woff
 __vsc_prompt_cmd_original
 clear
 find client/assets/fonts
+touch client/assets/fonts/lato-bold.woff
+touch client/assets/fonts/lato-bold.ttf
