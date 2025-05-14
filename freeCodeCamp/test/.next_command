@@ -322,3 +322,4 @@ clear
 cp --help
 cp website-boilerplate -r
 cp -r website-boilerplate toms-website
+ls --color=auto
