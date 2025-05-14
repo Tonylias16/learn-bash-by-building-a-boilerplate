@@ -318,3 +318,7 @@ clear
 ls --color=auto
 cp -help
 cp --help
+clear
+cp --help
+cp website-boilerplate -r
+cp -r website-boilerplate toms-website
