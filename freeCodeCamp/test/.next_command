@@ -85,3 +85,5 @@ ls --color=auto
 ls --color=auto -1
 ls --color=auto -l
 cd has
+clear
+ls --color=auto
