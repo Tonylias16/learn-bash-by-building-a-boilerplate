@@ -206,3 +206,5 @@ find client
 find help
 help find
 find --help
+clear
+find -name index.html
