@@ -70,3 +70,4 @@ print freeCodeCamp
 print working directory
 print
 pwd
+ls --color=auto
