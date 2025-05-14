@@ -186,3 +186,15 @@ mv index.js client/src
 mv index.html client/src
 file
 find
+find
+clear
+mv client/src index.js website
+rm client/src index.js
+clear
+cd client
+cd src
+rm index.js
+cd ../..
+clear
+touch index.js
+mv index.js client/src
