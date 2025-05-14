@@ -122,3 +122,7 @@ ls --color=auto
 --help
 ls --color=auto --help
 ls --color=auto --all
+cd ..
+cd website
+more ..
+cd .
