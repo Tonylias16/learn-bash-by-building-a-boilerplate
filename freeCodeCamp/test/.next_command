@@ -217,3 +217,5 @@ cd client
 mkdir assets
 cd assests
 cd assets
+clear
+mkdir images
